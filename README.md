@@ -16,3 +16,12 @@ There could be many steps involved, but others users will pick apart your logica
 
 The Poliflowchart will grow over time, and it will educate people on a political view that will encompass every political position around that political issue.  People will get a real insightful overview, and will be able to weigh the positive and negatives.  People can vote on each logical step, the choices would be "Like, Dislike, Conspiracy"
 
+## User Interface
+
+This is a great start
+
+http://gojs.net/latest/samples/flowchart.html
+
+I would eliminate the comment, when you click on one of the steps, it can open a comment section below the entire flowchart area.  People can start discussing that one step.
+
+Any changes to the flowchart itself, will go into review to make sure it is not garbage.
