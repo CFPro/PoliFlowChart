@@ -20,7 +20,7 @@ The Poliflowchart will grow over time, and it will educate people on a political
 
 This is a great start
 
-![alt text](https://github.com/CFPro/PoliFlowChart/edit/master/images/sample.png "Flowchart Example")
+![alt text](https://github.com/CFPro/PoliFlowChart/blob/master/Images/sample.png "Flowchart Example")
 
 I would eliminate the comment, when you click on one of the steps, it can open a comment section below the entire flowchart area.  People can start discussing that one step.
 
